@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![My face](/assets/images/avatar.JPG)
+![What I look like](/assets/images/avatar.JPG)
 
 Hi there!
 
@@ -14,4 +14,4 @@ Before becoming a technical writer, I worked as a sales consultant at Oracle, co
 
 I started my career as a software developer. Altogether, I have over 15 years of experience in the software industry.
 
-![LindedIn logo](/assets/images/LinkedIn-logo.png) [https://www.linkedin.com/in/pasokolov/](https://www.linkedin.com/in/pasokolov/).
+![LindedIn logo](/assets/images/LinkedIn-logo.png) [https://www.linkedin.com/in/pasokolov/](https://www.linkedin.com/in/pasokolov/)

@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Technical writing portfolio
 ---
-# My technical writing portfolio
 
 For examples of software documentation I created, click the links below.
 
