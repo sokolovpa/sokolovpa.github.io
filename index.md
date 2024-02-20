@@ -16,5 +16,5 @@ For examples of software documentation I created, click the links below.
 * QuickReg. A product registration solution: [https://docs.quickreg.me/](https://docs.quickreg.me/)
 * QuickInsight. A customer analytics solution: [https://docs.quickinsight.me/](https://docs.quickinsight.me/)
 
-## SDR Documentation
+## SDK Documentation
 * BankingBridge. An SDK for displaying the latest mortgage rates: [https://bankingbridge.readme.io/docs/welcome](https://bankingbridge.readme.io/docs/welcome)
