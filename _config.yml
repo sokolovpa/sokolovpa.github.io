@@ -21,7 +21,7 @@
 title: Pavel Sokolov
 email: sokolovpavel@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This website was built with Jekyll. It was designed to showcase my technical writing portfolio.
+This website was designed to showcase my technical writing portfolio and built with Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
