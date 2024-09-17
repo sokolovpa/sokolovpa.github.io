@@ -6,7 +6,9 @@ layout: page
 title: Technical writing portfolio
 ---
 
-For examples of software documentation I created, click the links below.
+The software documentation presented in this portfolio was written in Markdown and JSON. The API documentation is hosted on the ReadMe platform. The SaaS documentation was published with VuePress.
+
+For examples of documentation I created, click the links below.
 
 ## API Documentation
 * Inspire. A payment processing platform: [https://inspire-platform.readme.io/reference/quickstart](https://inspire-platform.readme.io/reference/quickstart){:target="_blank" rel="noopener"}
