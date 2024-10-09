@@ -1,14 +1,18 @@
 ---
 layout: page
 title: The latest GalacticHub update is here
+permalink: /external-release-notes/
 ---
 
 This update is all about helping you be more productive. We've enhanced project navigation and introduced several other improvements to make the platform more versatile.
-Here is what's new:
+
+Here is what's new.
 
 ## Customize your dashboard with interactive real-time data visualizations
 
-Say hello to Dynamic data widgets. No more data file downloads! The widgets allow you to customize your dashboard by adding up to six interactive data visualizations that get updated in real time. Choose to display data for the past 30, 60, or 90 days.
+Say hello to Dynamic data widgets. No more data file downloads!
+
+The widgets allow you to customize your dashboard by adding up to six interactive data visualizations that get updated in real time. Choose to display data for the past 30, 60, or 90 days.
 
 ## Connect GalacticHub to your external calendar
 
@@ -25,6 +29,7 @@ You can now filter the search results and leverage AI-generated suggestions in t
 ## Improved stability and compliance
 
 We took note of your feedback and upgraded our infrastructure to increase the platform's stability and improve performance.
+
 And, with upgrades to the data encryption protocols, the platform is now SOC 2 compliant.
 
 _Enjoy!_

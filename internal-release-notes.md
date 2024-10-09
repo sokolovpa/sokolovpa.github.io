@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What’s new in the latest GalacticHub release
+permalink: /internal-release-notes/
 ---
 
 Hello, GalacticHub team!
