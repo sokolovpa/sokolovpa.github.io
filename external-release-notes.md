@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: External Release Notes
 ---
 # The latest GalacticHub update is here
