@@ -35,8 +35,8 @@ plugins:
 
 # Header pages
 header_pages:
-  - index.html
-  - about.html
+  - index.md
+  - about.md
 
 
 # Exclude from processing.
