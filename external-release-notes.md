@@ -1,8 +1,7 @@
 ---
 layout: page
-title: External Release Notes
+title: The latest GalacticHub update is here
 ---
-# The latest GalacticHub update is here
 
 This update is all about helping you be more productive. We've enhanced project navigation and introduced several other improvements to make the platform more versatile.
 Here is what's new:

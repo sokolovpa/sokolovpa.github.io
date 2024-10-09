@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Internal Release Notes
+title: What’s new in the latest GalacticHub release
 ---
-# What’s new in the latest GalacticHub release
 
 Hello, GalacticHub team!
 A new release of the GalacticHub platform is coming out, and we want to keep you informed about what’s new.
