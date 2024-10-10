@@ -21,7 +21,7 @@ The following SaaS documentation was written in Markdown and published with VueP
 * QuickInsight. A customer analytics application: [https://docs.quickinsight.me/](https://docs.quickinsight.me/){:target="_blank" rel="noopener"}
 
 ## Release Notes
-These are mock release notes for an update to a hypothetical application called GalacticHub.
+These are sample release notes for an update to a hypothetical application called GalacticHub.
 
 * Public facing release notes: [External Release Notes](/external-release-notes.md).
 * Internal product update page for the GalacticHub team: [Internal Release Notes](/internal-release-notes.md).
