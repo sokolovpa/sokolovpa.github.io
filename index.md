@@ -9,9 +9,8 @@ title: Technical writing portfolio
 For examples of technical content I created, click the links below.
 
 ## API documentation
-The API documentation in these examples is hosted on the ReadMe platform. It was written in Markdown and JSON.
+The API documentation in this example is hosted on ReadMe. It was written in Markdown and JSON.
 
-* Inspire. A payment processing platform: [https://inspire-platform.readme.io/reference/quickstart](https://inspire-platform.readme.io/reference/quickstart){:target="_blank" rel="noopener"}
 * FanHero. A video hosting platform: [https://docs.fanhero.com/reference/api-introduction](https://docs.fanhero.com/reference/api-introduction){:target="_blank" rel="noopener"}
 
 ## SaaS documentation
