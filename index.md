@@ -16,7 +16,7 @@ The API documentation in this example is hosted on ReadMe. It was written in Mar
 ## SDK Documentation
 An SDK documentation site built with Docusaurus.
 
-* Forio Epicenter. A platform for building models and simulations: [https://docs.forio.com/](https://docs.forio.com/){:target="_blank" rel="noopener"}
+* Forio Epicenter. A platform that let's you transform your models into interactive web apps: [https://docs.forio.com/](https://docs.forio.com/){:target="_blank" rel="noopener"}
 
 ## SaaS documentation
 The following SaaS documentation was written in Markdown and published with VuePress.
