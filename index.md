@@ -16,7 +16,7 @@ The API documentation in this example is hosted on ReadMe. It was written in Mar
 ## SDK Documentation
 An SDK documentation site built with Docusaurus.
 
-* Forio Epicenter. A platform that let's you transform your models into interactive web apps: [https://docs.forio.com/](https://docs.forio.com/){:target="_blank" rel="noopener"}
+* Forio Epicenter. A platform that lets you transform your models into interactive web apps: [https://docs.forio.com/](https://docs.forio.com/){:target="_blank" rel="noopener"}
 
 ## SaaS documentation
 The following SaaS documentation was written in Markdown and published with VuePress.
@@ -27,5 +27,5 @@ The following SaaS documentation was written in Markdown and published with VueP
 ## Release notes
 These are sample release notes for an update to a hypothetical application called GalacticHub.
 
-* Public facing release notes: [External Release Notes](/external-release-notes.md).
+* Public-facing release notes: [External Release Notes](/external-release-notes.md).
 * Internal product update page for the GalacticHub team: [Internal Release Notes](/internal-release-notes.md).
