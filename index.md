@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Technical Writing Portfolio
+title: Portfolio
 ---
 
 For examples of technical content I created, click the links below.

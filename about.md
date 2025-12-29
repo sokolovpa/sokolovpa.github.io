@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi there!
 
-My name is Pavel, and I am a technical writer. My focus is software documentation. Since 2019, I have worked on several projects documenting APIs and SaaS solutions.
+My name is Pavel, and I am a technical writer. My focus is software documentation. Since 2019, I have worked on many projects documenting APIs and SaaS solutions.
 
 Before becoming a technical writer, I worked as a sales consultant at Oracle, consulting clients on the Oracle database and cloud services.
 
