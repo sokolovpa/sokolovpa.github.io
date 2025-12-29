@@ -27,9 +27,9 @@ The following SaaS documentation was written in Markdown and published with VueP
 ## Release Notes
 Release notes that I created for Indico Data.
 
-* Agent Studio: a solution that captures, classifies, and structures unstructured insurance data: [https://docs.indicodata.ai/articles/#!release-notes-publication/release-notes-agent-studio-v7-7](https://docs.indicodata.ai/articles/#!release-notes-publication/release-notes-agent-studio-v7-7).
+* Agent Studio: a solution that captures, classifies, and structures unstructured insurance data: [https://docs.indicodata.ai/articles/#!release-notes-publication/release-notes-agent-studio-v7-7](https://docs.indicodata.ai/articles/#!release-notes-publication/release-notes-agent-studio-v7-7){:target="_blank" rel="noopener"}
 
 These are sample release notes for an update to a hypothetical application called GalacticHub.
 
-* Public-facing release notes: [External Release Notes](/external-release-notes.md).
-* Internal product update page for the GalacticHub team: [Internal Release Notes](/internal-release-notes.md).
+* Public-facing release notes: [External Release Notes](/external-release-notes.md)
+* Internal product update page for the GalacticHub team: [Internal Release Notes](/internal-release-notes.md)
