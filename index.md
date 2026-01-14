@@ -8,15 +8,15 @@ title: Portfolio
 
 For examples of technical content I created, click the links below.
 
-## API Documentation
-The API documentation in this example is hosted on ReadMe. It was written in Markdown and JSON.
-
-* FanHero. A video hosting platform: [https://docs.fanhero.com/reference/api-introduction](https://docs.fanhero.com/reference/api-introduction){:target="_blank" rel="noopener"}
-
 ## SDK Documentation
 An SDK documentation site built with Docusaurus.
 
 * Forio Epicenter. A platform that lets you transform your models into interactive web apps: [https://docs.forio.com/](https://docs.forio.com/){:target="_blank" rel="noopener"}
+
+## API Documentation
+The API documentation in this example is hosted on ReadMe. It was written in Markdown and JSON.
+
+* FanHero. A video hosting platform: [https://docs.fanhero.com/reference/api-introduction](https://docs.fanhero.com/reference/api-introduction){:target="_blank" rel="noopener"}
 
 ## SaaS Documentation
 The following SaaS documentation was written in Markdown and published with VuePress.
